@@ -15,7 +15,7 @@ h6 {
 .feature {
 	background: url('../images/r ori.jpg');
 	background-position: top right;
-	background-size: cover;
+	background-size: contain;
 	background-color: #dd845a;
 	color: white;
 	text-shadow: 1px 1px 8px black;
