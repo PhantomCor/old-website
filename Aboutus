@@ -67,4 +67,113 @@ Although you can use them, for a more unique website, replace these images with 
         </div><!-- /.container -->
     </nav>
 
-	<!-- Feature -->
+<p> Founded in 2015, the University of Illinois Urbana-Champaign Biomedical Engineering Society Design Team is an interdisciplinary 
+    multi-semester design collaboration working to progressively improve a novel multimodal, dynamic heart phantom. Our novel approach 
+    will allow advancements in the development of new imaging protocols, treatments, and modeling methods. With the ability to image 
+    heart phantoms through various modes, including PET-CT, MRI and ultrasound, we hope our novel approach will aid scientists and 
+    doctors in studying and to better understand cardiovascular diseases. The BMES Design Team hopes to continue advancing and 
+    expanding the capabilities of the biological field. 
+</p>
+
+
+<!-- Footer Links -->
+		<div class="footer-info">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 footer-info-item">
+						<h3>Information</h3>
+						<ul class="list-unstyled">
+							<li><a href="#">About Us</a></li>
+							<li><a href="#">Science</a></li>
+							<li><a href="#">Technology</a></li>
+							<li><a href="#">Engineering</a></li>
+							<li><a href="#">Mathematics</a></li>
+						</ul>
+					</div>
+					<div class="col-sm-4 footer-info-item">
+						<h3>My Account</h3>
+						<ul class="list-unstyled">
+							<li><a href="#">Help</a></li>
+							<li><a href="#">Help</a></li>
+							<li><a href="#">Help</a></li>
+							<li><a href="#">Help</a></li>
+							<li><a href="#">Help</a></li>
+						</ul>	
+					</div>
+					<div class="col-sm-4 footer-info-item">
+						<h3><span class="glyphicon glyphicon-list-alt"></span> Newsletter</h3>
+						<p>Sign up for exclusive updates.</p>
+						<div class="input-group">
+							<input type="email" class="form-control" placeholder="Enter your email address">
+							<span class="input-group-btn">
+								<button class="btn btn-primary" type="button">
+									Subscribe!
+								</button>
+							</span>
+						</div>
+					</div>
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+        </div>
+        
+        <!-- Copyright etc -->
+        <div class="small-print">
+        	<div class="container">
+        		<p><a href="#">Terms &amp; Conditions</a> | <a href="#">Privacy Policy</a> | <a href="#contact">Contact</a></p>
+        		<p>Copyright &copy; University of Illinois at Urbana-Champaign 2016 </p>
+        	</div>
+        </div>
+        
+	</footer>
+
+
+<!-- Placed at the end of the document so the pages load faster -->
+	<div class="modal fade" id="contact" role="dialog">
+    	<div class="modal-dialog">
+    		<div class="modal-content">
+    			<form class="form-horizontal" role="form" action="https://formspree.io/PhantomCor.uiuc@gmail.com" method="POST">
+    				<div class="modal-header">
+    					<h4>Contact<h4>
+	    			</div>
+	    			<div class="modal-body">
+    					<div class="form-group">
+    						<label for="contact-name" class="col-sm-2 control-label">Name</label>
+    						<div class="col-sm-10">
+    							<input type="text" class="form-control" id="contact-name" placeholder="First & Last Name" name="name">
+    						</div>
+    					</div>
+    					<div class="form-group">
+    						<label for="contact-email" class="col-sm-2 control-label">Email</label>
+    						<div class="col-sm-10">
+    							<input type="email" class="form-control" id="contact-email" placeholder="example@domain.com" name="contactemail">
+    						</div>
+    					</div>
+    					<div class="form-group">
+    						<label for="contact-message" class="col-sm-2 control-label">Message</label>
+    						<div class="col-sm-10">
+    							<textarea class="form-control" rows="4" name="message"></textarea>
+    						</div>
+    					</div>
+	    			</div>
+	    			<div class="modal-footer">
+    					<a class="btn btn-default" data-dismiss="modal">Close</a>
+    					<button type="submit" class="btn btn-primary" value="Send">Send</button>
+    				</div>
+    			</form>
+    		</div>
+    	</div>
+    </div>
+
+
+    <!-- jQuery -->
+    <script src="js/jquery-1.11.3.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+	
+	<!-- IE10 viewport bug workaround -->
+	<script src="js/ie10-viewport-bug-workaround.js"></script>
+	
+</body>
+
+</html>
