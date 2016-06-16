@@ -17,8 +17,8 @@ h6 {
 	background-position: top right;
 	background-size: cover;
 	background-color: #dd845a;
-	color: black;
-	text-shadow: 1px 1px 8px color: #808080;
+	color: darkslategray;
+	text-shadow: 1px 1px 8px #909090;
 	}
 
 .feature .btn {
