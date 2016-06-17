@@ -12,13 +12,13 @@ h6 {
 	color: #dd845a;
 	}
 .container {
-	padding-bottom: 48px;
+	padding-bottom: 50px;
 }
 	
 .feature {
 	background: url('../images/r ori png.png');
 	background-position: top right;
-	background-size: cover;
+	background-size: 100% 100%;
 	background-color: #dd845a;
 	color: darkslategray;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
