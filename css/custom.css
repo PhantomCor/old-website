@@ -11,6 +11,9 @@ h5,
 h6 {
 	color: #dd845a;
 	}
+.container {
+	padding-bottom: 60px;
+}
 	
 .feature {
 	background: url('../images/r ori png.png');
