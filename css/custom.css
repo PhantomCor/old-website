@@ -18,7 +18,8 @@ h6 {
 .feature {
 	background: url('../images/r ori png.png');
 	background-position: top right;
-	background-size: cover;
+	background-size: 80px 80px;
+    	background-repeat: no-repeat;
 	background-color: #dd845a;
 	color: darkslategray;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
