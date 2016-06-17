@@ -18,7 +18,7 @@ h6 {
 .feature {
 	background: url('../images/r ori png.png');
 	background-position: top right;
-	background-size: 80% 80%;
+	background-size: auto;
 	background-repeat: no-repeat;
 	background-color: #dd845a;
 	color: darkslategray;
