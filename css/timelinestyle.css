@@ -145,3 +145,31 @@
 .timeline-body > p + p {
   margin-top: 5px;
 }
+
+.footer-info {
+    padding: 20px 0;
+    background: #f7f7f7;
+}
+
+.footer-info,
+.footer-info a:link,
+.footer-info a:hover,
+.footer-info a:focus,
+.footer-info a:visited {
+    color: #959595;
+	}
+
+.footer-info h3 {
+	color: black;
+	font-size: 18px;
+	}
+    
+.footer-info-item {
+    padding: 0px 20px;
+    }
+    
+footer .small-print {
+	background-color: #fff;
+	padding: 30px 0;
+	text-align: center;
+}
